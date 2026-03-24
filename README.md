@@ -114,6 +114,7 @@ Ky konfigurim krijon trafik volumetrik të qartë dhe të lehtë për t’u vëz
 Në Linux u hap `Wireshark` për të kapur paketat, duke përdorur filtrin: `tcp.flags.syn == 1 and tcp.flags.ack == 0`.
 
 ![hping3](./hping3-sc.png)
+
 _Trafiku që u kap nga Wireshark gjatë ekzekutimit të komandës hping3_
 
 ![graph](./wireshark-graph.png)
@@ -149,9 +150,11 @@ Në ndërfaqen e LOIC, u caktua IP e Windows (`192.168.1.7`), dhe si metodë sul
 Kur filloi sulmi, `LOIC` krijoi lidhje të plota `TCP` dhe i dërgoi serverit `Apache` një numër kolosal kërkesash të njëpasnjëshme `GET` / `HTTP/1.1`.
 
 ![loic](./loic.png)
+
 _Paraqitja e ndërfaqes grafike të LOIC gjatë ekzekutimit të metodës HTTP_
 
 ![task-manager](./task-manager2.png)
+
 _Grafiku i CPU/RAM gjatë ngarkesës së XAMPP_
 
 ### Analiza e ekzekutimit
