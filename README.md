@@ -1,4 +1,4 @@
-# Dokumentim i Detyrës: Gjenerimi dhe Analiza e Trafikut Volumetrik në një Rrjet të Simuluar (LOIC)
+# Dokumentim i Detyrës: Gjenerimi dhe Analiza e Trafikut Volumetrik në një Rrjet të Simuluar
 
 ## Përmbledhje
 
